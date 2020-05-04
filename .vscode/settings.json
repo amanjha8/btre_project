@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "c:\\Users\\MAHE\\Desktop\\Django\\venv\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+}
+
